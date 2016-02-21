@@ -3,20 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>Zeus</artifactId>
-        <groupId>Zeus</groupId>
+        <artifactId>zeus</artifactId>
+        <groupId>zeus</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>zeus-alarm</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>zeus-alarm-api</module>
-        <module>zeus-alarm-core</module>
-        <module>zeus-alarm-server</module>
-        <module>zeus-alarm-traffic</module>
-    </modules>
 
 
 </project>
